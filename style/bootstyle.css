@@ -1,0 +1,82 @@
+
+.main {
+  padding-top: 150px;
+}
+.h1-custom {
+  font-size: 45px;
+  text-align: center;
+}
+
+.description-for-about {
+
+  color: black;
+  text-align: center;
+
+}
+
+.btn-col {
+  background: transparent;
+  color: orange;
+  border: 1px solid orange;
+  font-weight: bold;
+  margin: 0 auto;
+}
+.mg-left {
+    margin-left: 530px;
+}
+
+.divider {
+  border: 1px solid orange;
+  width: 26%;
+  margin: 15px auto;
+  height: 3px;
+}
+
+.div-width {
+  width: 18%;
+}
+
+.description {
+  width: 70%;
+  margin: 0 auto 30px;
+}
+.custom-header {
+  background: url('../images/header_img.jpg');
+}
+
+.header-line {
+  min-height: 50px;
+}
+
+.logo {
+  width:45px ;
+}
+
+.menu {
+  margin-top: 15px;
+  float: right;
+  font-weight: bold;
+}
+
+.h1-main {
+  font-size: 25px;
+  text-align: center;
+  color: orange;
+}
+
+.menu li {
+  color: white;
+  margin-right: 25px;
+}
+.menu li:hover  {
+  color: orange;
+}
+.h1-custom , .description {
+  color: white;
+}
+.color {
+  color: black;
+}
+
+.font-italic {
+  font-style: italic;
